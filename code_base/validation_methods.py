@@ -1,5 +1,5 @@
 import requests
-import construct_request_message as construct_folder
+import code_base.construct_request_message as construct_folder
 
 # the city name validation step:
 class Validate_city_name():
